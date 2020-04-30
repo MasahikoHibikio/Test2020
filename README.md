@@ -1,4 +1,6 @@
 # Test2020
 GitHubの勉強用リポジトリ2020年度版
 
-はじめてのGitHub
+GitHub
+
+変更してみます．
